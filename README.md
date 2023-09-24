@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
-- 📫 How to reach me **davidquinterobrito@gmail.com** and IG account (Link below in IG image)
+- 📫 How to reach me **davidquinterobrito@gmail.com** and Social Media accounts (Click items below)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
