@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ASG , a comerzzia group member](https://www.asg-si.com/). I’m a **Programming Analyst and Cybersecurity Specialist**, developing different projects (mainly ERP's) and performing security tasks.
 
-- 🌱 I’m currently learning **Cibersecurity** and studying **degree in Software Engineering**
+- 🌱 I’m currently learning **Cibersecurity** and studying a **degree in Software Engineering**
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
