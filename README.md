@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
-<h3 align="center">A fullstack developer passionate about IT and Cybersecurity</h3>
+<h3 align="center">Software & Cybersecurity developer</h3>
 
-- 🔭 I’m currently working on [ASG , a comerzzia group member](https://www.asg-si.com/). I’m a **Programming Analyst and Cybersecurity Specialist**, developing different projects (mainly ERP's) and performing security tasks.
+- 🔭 Currently working on [ASG , a comerzzia group member](https://www.asg-si.com/). I’m a **Programming Analyst and Cybersecurity Specialist**, developing different projects (mainly ERP's) and performing security tasks.
 
-- 🌱 I’m currently learning **Cibersecurity** and studying a **degree in Software Engineering**
+- 🌱 Learning **Cibersecurity** and studying a **degree in Software Engineering**
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
-- 📫 How to reach me **davidquinterobrito@gmail.com** and Social Media accounts (Click items below)
+- 📫 How to reach me ->  **davidquinterobrito@gmail.com** and Social Media accounts (Click items below)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
