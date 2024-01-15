@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
 <h3 align="center">Software & Cybersecurity developer</h3>
 
-- 🔭 Currently working on [ASG , a Comerzzia group member](https://www.asg-si.com/). I’m a **Programming Analyst and Cybersecurity Specialist**, developing different projects (mainly ERP's) and performing security tasks.
+- 🔭 Currently working on [ASG , a Comerzzia group member](https://www.asg-si.com/) as **Programming Analyst and Cybersecurity Specialist**, developing different projects (mainly ERP's) and performing security tasks.
 
 - 🌱 Learning **Cibersecurity** and studying a **degree in Software Engineering**
 
