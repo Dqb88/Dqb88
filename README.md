@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
 <h3 align="center">Software & Cybersecurity developer</h3>
 
-- 🔭 Currently working hard for becoming as **Cybersecurity Specialist**. One of my last projects involves the development and implementation of a SIEM (Security Information and Event Management) system from scratch in a corporate environment. In the corresponding repository, you can view this project."
+- 🔭 Currently working as **Cybersecurity Specialist**."
 
 - 🌱 Learning **Cibersecurity** and studying a **degree in Software Engineering**
 
