@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
-<h3 align="center">Software & Cybersecurity developer</h3>
+<h3 align="center"> Cybersecurity | Project Managment </h3>
+</br>
 
-- 🔭 Currently working as **Cybersecurity Specialist**."
-
-- 🌱 Learning **Cibersecurity** and studying a **degree in Software Engineering**
+- 🔭 Currently working as **Cybersecurity Specialist** with experience as **Project Manager**."
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
 - 📫 How to reach me ->  **davidquinterobrito@gmail.com** and Social Media accounts (Click items below)
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
