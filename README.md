@@ -4,7 +4,7 @@
 <h3 align="center"> Cybersecurity | Project Managment </h3>
 </br>
 
-- 🔭 Currently working as **Cybersecurity Specialist** with experience as **Project Manager**."
+- 🔭 Currently working as **Cybersecurity Specialist** with experience as **IT Manager**."
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
