@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-quintero-brito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/david-quintero-brito/" height="30" width="40" /></a>
-<a href="https://instagram.com/canary.lifter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canary.lifter" height="30" width="40" /></a>
+<a href="https://instagram.com/cthetechlifter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canary.lifter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,11 +31,17 @@
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QRadar-005571?&style=for-the-badge&logoColor=white"/>
 </div>
 
 ## Certifications
-<div>Coming soon...</div>
-
+<div>
+    <ul>
+      <li>eJPTv2</li>
+      <li>Ethical Hacker by CISCO</li>
+      <li>Google Project Management Professional Certificate</li>
+    </ul>
+</div>
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqb88&show_icons=true&locale=en&layout=compact" alt="dqb88" /></p>
