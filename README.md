@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
-<h3 align="center"> Cybersecurity | Project Managment </h3>
+<h3 align="center"> Cybersecurity | Project Managment || eJPTv2 - Google Project Management Professional Certificate </h3>
 </br>
 
 - 🔭 Currently working as **Cybersecurity Specialist** with experience as **IT Manager**."
