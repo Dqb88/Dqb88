@@ -42,7 +42,7 @@
       <li>Google Project Management Professional Certificate</li>
     </ul>
 </div>
-<br>
+</br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqb88&show_icons=true&locale=en&layout=compact" alt="dqb88" /></p>
 
