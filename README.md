@@ -4,7 +4,7 @@
 <h3 align="center"> Cybersecurity Specialist | Project Managment </h3>
 </br>
 
-- 🔭 Currently working as **Cybersecurity Specialist** with experience as **IT Manager**."
+- 🔭 Currently working as **Cybersecurity Specialist** and **IT Manager**."
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/david-quintero-brito/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/david-quintero-brito/" height="30" width="40" /></a>
-<a href="https://instagram.com/cthetechlifter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canary.lifter" height="30" width="40" /></a>
+<a href="https://instagram.com/thetechlifter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canary.lifter" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
