@@ -38,6 +38,7 @@
 <div>
     <ul>
       <li>eJPTv2</li>
+      <li>ICCA</li>
       <li>Ethical Hacker by CISCO</li>
       <li>Google Project Management Professional Certificate</li>
     </ul>
@@ -46,4 +47,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqb88&show_icons=true&locale=en&layout=compact" alt="dqb88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dqb88&" alt="dqb88" /></p>
