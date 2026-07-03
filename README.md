@@ -4,7 +4,7 @@
 <h3 align="center"> Cybersecurity Specialist | Project Managment </h3>
 </br>
 
-- 🔭 Currently working as **Cybersecurity Specialist** and **IT Manager**."
+- 🔭 Currently working as **Technical Consultant**"
 
 - 👨‍💻 All of my projects are available at this GitHub account (just personal projects).
 
@@ -37,6 +37,7 @@
 ## Certifications
 <div>
     <ul>
+      <li>Security+</li> 
       <li>eJPTv2</li>
       <li>ICCA</li>
       <li>Ethical Hacker by CISCO</li>
@@ -44,6 +45,3 @@
     </ul>
 </div>
 </br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dqb88&show_icons=true&locale=en&layout=compact" alt="dqb88" /></p>
-
