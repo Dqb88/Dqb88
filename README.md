@@ -56,7 +56,7 @@ The current implementation includes:
 - Enterprise identity architecture
 - Microsoft Entra ID security groups
 - Role-Based Access Control
-- Delegated Microsoft Purview administration
+- Delegated Microsoft Purview Information Protection administration
 - Least-privilege and role-separation model
 - Finance and Human Resources security scenarios
 - IAM and Purview RBAC technical documentation
@@ -149,7 +149,7 @@ Current development roadmap:
 - [x] CompTIA Security+
 - [x] Enterprise Security Lab foundation
 - [x] Microsoft 365 tenant and IAM architecture
-- [x] Microsoft Purview delegated administration
+- [x] Delegated Microsoft Purview Information Protection administration
 - [ ] Microsoft SC-401 certification
 - [ ] Sensitivity-label architecture
 - [ ] Data Loss Prevention implementation
