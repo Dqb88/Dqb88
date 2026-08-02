@@ -1,123 +1,181 @@
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
-<h3 align="center">Cybersecurity Engineer | Project Management</h3>
 
-<br/>
+<h3 align="center">
+Cybersecurity Consultant | Data Security | Microsoft Purview | GRC | Secure SDLC
+</h3>
 
-- 🔭 **Technical Consultant** with experience in **Cybersecurity, Software Development and Project Management**.
-
-- 🛡️ Focused on **Security Engineering, Governance, Cloud Security, Secure SDLC and SOC Operations**.
-
-- 👨‍💻 This GitHub contains my personal projects, labs and technical documentation.
-
-- 📫 **davidquinterobrito@gmail.com**
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/david-quintero-brito/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="David Quintero LinkedIn" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/thetechlifter" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TheTechLifter Instagram" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-quintero-brito/">LinkedIn</a>
+  ·
+  <a href="https://github.com/Dqb88/Enterprise-Security-Lab">Enterprise Security Lab</a>
 </p>
 
 ---
 
-## Current Focus
+## About Me
 
-- Security Engineering
+I am a System Engineer and cybersecurity professional with experience in cybersecurity consulting, software development and international enterprise environments.
+
+My current professional path focuses on protecting enterprise information through a combination of security governance, technical controls and secure software engineering.
+
+- 🔐 Building practical capabilities in **Data Security, Information Protection and Data Loss Prevention**
+- 🏢 Working with **Microsoft 365, Microsoft Purview and Microsoft Entra ID**
+- 📋 Developing expertise in **Governance, Risk and Compliance**
+- 🧩 Applying **IAM, RBAC, least privilege and role separation**
+- 🛡️ Connecting security governance with **Secure SDLC and Application Security**
+- 🎓 Completing a Bachelor's Degree in Software Engineering
+- 📚 Preparing for **Microsoft SC-401 and CISSP**
+
+---
+
+## Core Focus
+
+- Data Security and Information Protection
+- Microsoft Purview
+- Data Loss Prevention
+- Identity and Access Management
+- Governance, Risk and Compliance
+- Security Governance
+- Secure Software Development Lifecycle
+- Application Security
 - Cloud Security
-- Governance, Risk and Compliance (GRC)
-- Secure SDLC
-- SOC Operations
-- Project Management
+- Security Architecture
+- AI Security and Governance
 
 ---
 
-## Languages and Tools
+## Featured Project
 
-<p align="left">
+### [Enterprise Security Lab](https://github.com/Dqb88/Enterprise-Security-Lab)
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
+A hands-on enterprise cybersecurity portfolio designed to demonstrate how security controls can be planned, implemented, tested and documented in a realistic environment.
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
+The current implementation includes:
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
+- Microsoft 365 E3 laboratory tenant
+- Enterprise identity architecture
+- Microsoft Entra ID security groups
+- Role-Based Access Control
+- Delegated Microsoft Purview administration
+- Least-privilege and role-separation model
+- Finance and Human Resources security scenarios
+- IAM and Purview RBAC technical documentation
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+Current development roadmap:
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-</a>
-
-</p>
+- Sensitivity labels and publishing policies
+- Information classification
+- Finance and Human Resources DLP use cases
+- Retention and data lifecycle controls
+- Audit and investigation scenarios
+- Secure SDLC framework
+- AI-assisted secure web platform
 
 ---
 
-## Security Tools
+## Selected Repositories
 
-### Network
-
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Snort-777BB4?&style=for-the-badge&logo=Snort&logoColor=white"/>
-</div>
-
-### SIEM
-
-<div>
-<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/-QRadar-005571?&style=for-the-badge&logoColor=white"/>
-</div>
+| Project | Focus |
+|---|---|
+| [Enterprise Security Lab](https://github.com/Dqb88/Enterprise-Security-Lab) | Microsoft Purview, Data Security, IAM, GRC and Secure SDLC |
+| [SpringBoot Batch Integrator](https://github.com/Dqb88/SpringBoot-Batch-Integrator) | Java, Spring Boot, Spring Batch and enterprise integration |
+| [Elasticsearch on Kali Purple](https://github.com/Dqb88/Instalacion-Elasticsearch-KaliPurple) | Elastic Stack deployment and security-monitoring laboratory |
 
 ---
 
 ## Certifications
 
+### Completed
+
 - CompTIA Security+
-- eJPTv2
+- INE eJPTv2
+- INE Certified Cloud Associate — ICCA
 - Google Cybersecurity Professional Certificate
-- Cisco Ethical Hacker
 - Google Project Management Professional Certificate
-- ICCA
+- Cisco Ethical Hacker
+
+### In Progress
+
+- Microsoft SC-401 — Information Security Administrator
+- CISSP preparation
+
+### Planned
+
+- GitHub Advanced Security
 
 ---
 
-## Currently Studying
+## Technical Foundation
 
-- CISSP
-- AWS Security
-- Azure Security
-- Chinese HSK2
+### Enterprise Security
+
+- Microsoft Purview
+- Microsoft 365
+- Microsoft Entra ID
+- Information Protection
+- Data Loss Prevention
+- Identity and Access Management
+- Role-Based Access Control
+- Security Governance
+- Risk Management
+- Secure SDLC
+
+### Security Engineering
+
+- Elastic Stack
+- Wireshark
+- Suricata
+- Snort
+- Security monitoring
+- Vulnerability assessment
+- Network security fundamentals
+
+### Software Engineering
+
+- Java
+- Spring Boot
+- JavaScript
+- Python
+- SQL
+- Git and GitHub
+- REST APIs
+- Software architecture
+- Automated testing
 
 ---
 
-## Featured Projects
+## Current Roadmap
 
-- 🚧 Enterprise Security Lab *(In Progress)*
+- [x] CompTIA Security+
+- [x] Enterprise Security Lab foundation
+- [x] Microsoft 365 tenant and IAM architecture
+- [x] Microsoft Purview delegated administration
+- [ ] Microsoft SC-401 certification
+- [ ] Sensitivity-label architecture
+- [ ] Data Loss Prevention implementation
+- [ ] Audit and investigation scenarios
+- [ ] CISSP examination
+- [ ] GitHub Advanced Security
+- [ ] AI-assisted secure web platform
+- [ ] Secure SDLC bachelor thesis implementation
+
+---
+
+## Professional Direction
+
+My objective is to develop a profile capable of connecting:
+
+1. Enterprise security governance
+2. Data protection and information security
+3. Technical security implementation
+4. Secure software engineering
+5. Business risk and compliance requirements
+
+The long-term goal is to contribute to enterprise security programmes involving Data Security, GRC, Security Architecture, Secure SDLC and cybersecurity leadership.
+
+---
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/david-quintero-brito/)
+- [GitHub](https://github.com/Dqb88)
