@@ -150,7 +150,6 @@ Current development roadmap:
 - [x] Enterprise Security Lab foundation
 - [x] Microsoft 365 tenant and IAM architecture
 - [x] Delegated Microsoft Purview Information Protection administration
-- [ ] Microsoft SC-401 certification
 - [ ] Sensitivity-label architecture
 - [ ] Data Loss Prevention implementation
 - [ ] Audit and investigation scenarios
