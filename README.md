@@ -96,8 +96,10 @@ Current development roadmap:
 
 ### In Progress
 
-- Microsoft SC-401 — Information Security Administrator
-- CISSP preparation
+- CISSP
+- OSWE
+- AWS Certified Solutions Architect – Associate
+
 
 ### Planned
 
