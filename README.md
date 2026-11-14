@@ -24,7 +24,7 @@ My current professional path focuses on protecting enterprise information throug
 - 🧩 Applying **IAM, RBAC, least privilege and role separation**
 - 🛡️ Connecting security governance with **Secure SDLC and Application Security**
 - 🎓 Completing a Bachelor's Degree in Software Engineering
-- 📚 Preparing for **Microsoft SC-401 and CISSP**
+- 📚 Preparing for **CISSP**
 
 ---
 
