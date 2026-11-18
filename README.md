@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Quintero</h1>
 
 <h3 align="center">
-Cybersecurity Consultant | Data Security | Microsoft Purview | GRC | Secure SDLC
+Senior Engineer | DevSecOps & Security Architect | AppSec | AWS | GRC & Secure SDLC
 </h3>
 
 <p align="center">
